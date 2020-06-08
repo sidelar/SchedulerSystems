@@ -1,0 +1,17 @@
+﻿[
+	{
+		"task_name": "Scheduled Task",
+		"task_location": "BasicAwaiter\\BasicAwaiter.exe",
+		"task_interval": 1,
+		"task_scheduled_time": "03/16/2020 04:00:00",
+		"task_scheduled": "true"
+	},
+	{
+		"task_name": "Important Task",
+		"task_location": "BasicAwaiter\\BasicAwaiter.exe",
+		"task_interval": 0,
+		"task_scheduled_time": "",
+		"task_scheduled": "false"
+	}
+
+]
